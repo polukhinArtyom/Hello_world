@@ -1,1 +1,1 @@
-test program - Hello world
+test program
